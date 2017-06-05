@@ -7,7 +7,7 @@ consume kafka Avro data into storm, deserialize avro into object and save them i
 - 3, hbase
 
 ##features:
-- 1, support avro data from kafka; avro data is original from OGG(or others) with avro schema;
+- 1, support avro data from kafka; avro data is original from OGG(or others) that comes from some avro schema format;
 - 2, bolts int strom do deserialization from avro, and save object into hbase;
 - 3, support multi hbase tables at the sametime;
 
