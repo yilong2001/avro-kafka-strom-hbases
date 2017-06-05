@@ -1,5 +1,5 @@
 # avro-kafka-strom-hbases
-consume kafka Avro data into storm, deserialize avrò into object and save them into bases
+consume kafka Avro data into storm, deserialize avro into object and save them into bases
 
 ##Pre-Requisites
 - 1, kafka
