@@ -5,6 +5,6 @@ torm 1.0.2 - 1.1.0
 
 ###kafka-storm类结构
 
-![image](avro-kafka-strom-hbases/imgs/storm-kafka.png)
+![image](https://github.com/yilong2001/avro-kafka-strom-hbases/blob/master/imgs/storm-kafka.png)
 
 - kafka-strom相关类的结构关系
