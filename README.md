@@ -15,3 +15,9 @@ consume kafka Avro data into storm, deserialize avro into object and save them i
 - email: yilong2001@126.com
 - wechat: yilong2001
 
+
+##特性
+- 支持从kafka读取 avro格式的数据
+- 在storm自动完成avro多个schema格式数据的解析
+- 数据可以存入hbase，不同的schema avro数据可以存入不同的hbase table
+
