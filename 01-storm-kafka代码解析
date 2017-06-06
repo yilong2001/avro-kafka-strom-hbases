@@ -4,5 +4,6 @@
 - hbase 1.2.0 - latest
 - avro 1.7.7 - latest
 
-###kafka-storm总体结构
-![image](https://github.com/yilong2001/blob/master/avro-kafka-strom-hbases/storm-kafka.png)
+###kafka-storm类结构
+- ![image](https://github.com/yilong2001/avro-kafka-strom-hbases/blob/master/storm-kafka.png)
+- kafka-strom相关类的结构关系
